@@ -4,7 +4,7 @@ This project constitutes the Diploma Thesis I submited for my B.Sc. in Electrica
 
 **File description**
 
-1. SA_Diploma_Thesis_HMMY__English_.pdf : The final english version of my thesis.
+1. SA_Diploma_Thesis_HMMY__English.pdf : The final english version of my thesis.
 
 2. SA_Diploma_Thesis_HMMY__Greek.pdf : The final greek version of my thesis.
 
